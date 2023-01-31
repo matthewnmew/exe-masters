@@ -1,2 +1,3 @@
 # exe-masters
-Website for Exe Masters swiming club.
+Website for Exe Masters swimming club.
+http://www.exemasters.co.uk/
